@@ -1,0 +1,9 @@
+StratNetra starter dependencies for Python 3.10
+
+Provisional list: verify against notebook imports and the tested environment
+
+before relying on this file for reproducible installation.
+
+jupyter ipykernel numpy pandas matplotlib Pillow scikit-learn scipy
+opencv-python torch torchvision timm fastai fastcore albumentations
+segmentation-models-pytorch
